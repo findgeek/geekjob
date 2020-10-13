@@ -20,7 +20,6 @@
 :point_right: [Software Jobs, FrontEnd](Software-Engineer-FrontEnd/README.md)  
 :point_right: [Software Jobs, IOS](Software-Engineer-IOS/README.md)  
 :point_right: [Software Jobs, Android](Software-Engineer-Android/README.md)  
-:point_right: [Software Jobs, ReactNative](Software-Engineer-ReactNative/README.md)  
 :point_right: [Software Jobs, SRE](SRE/README.md)  
 
 ## Maintainers  
