@@ -1,3 +1,2 @@
 # Add 'repo' label to any root file changes
-waiting-for-review:
-  - ./*
+waiting-for-review: main/*
