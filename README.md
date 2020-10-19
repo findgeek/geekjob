@@ -10,17 +10,29 @@
 
 ## Job Posting Rules  
 
-:point_right: :point_right: Please read the posting rule [HERE!](POSTING-RULES.md) before submit PR.  
+### What types of job you could advertise?  
 
-## Quick Links
+Basically, all IT-related jobs. Just remember to follow the [naming-convention](#naming-convention).  
 
-:point_right: [DevOps Jobs](DevOps/README.md)  
-:point_right: [QA Jobs](QA-Engineer/README.md)  
-:point_right: [Software Jobs, BackEnd](Software-Engineer-BackEnd/README.md)  
-:point_right: [Software Jobs, FrontEnd](Software-Engineer-FrontEnd/README.md)  
-:point_right: [Software Jobs, IOS](Software-Engineer-IOS/README.md)  
-:point_right: [Software Jobs, Android](Software-Engineer-Android/README.md)  
-:point_right: [Software Jobs, SRE](SRE/README.md)  
+### How to submit new job?
+
+To submit a new job, open an Issue. You can either use the Issue template `Job Posting` or create a new Issue and copy & paste the template from [HERE](ISSUE-TEMPLATE.md).  
+
+Once submitted, the Issue is subjected to be reviewed within 7 days. Depends on the compliant level of the Issue, reviewer could ask for more information or reject the Issue. We will mostly use labels and comments for classification purposes.  
+
+### Naming Convention  
+
+Issue's Title MUST use this format  
+
+```
+[Company Name] - [Job Title] - [Location] - [Job Type]
+```
+
+Job Type should be one of the following:  
+
+* FT (For full-time)
+* PT (For part-time)
+* C (for contract)
 
 ## Maintainers  
 
