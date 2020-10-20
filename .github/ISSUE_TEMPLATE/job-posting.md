@@ -11,7 +11,7 @@ assignees: ''
 
 * Berlin, Germany
 
-## Salary Expectation
+## Salary
 
 * €5000/month or range
 
