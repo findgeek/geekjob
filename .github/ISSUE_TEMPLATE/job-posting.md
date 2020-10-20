@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# Issue Template  
-
 ## Location (MUST)
 
 * Berlin, Germany
