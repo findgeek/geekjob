@@ -1,12 +1,12 @@
 # GeekJob - Yet Another Job Board  
 
-:muscle::muscle::muscle: We are a small engineers group who are living & working in Berlin  
+:muscle::muscle::muscle: We are a small group of engineers who are living & working in Berlin.
 
 :mask::mask: Observing the instability of market in these days due to the covid chaos we believe our geekJob channel will help you:  
 
-:fire: receive of the great (in our opinion) job updates which will be posted by our admins. but feel free to send us if you have any (we will post them on your behalf). sooner you will able to post by yourself  
+:fire: Receive of the great (in our opinion) job updates which will be posted by our moderators but feel free to send us if you have any (we will post them on your behalf). Sooner you will able to post by yourself  
 
-:fire: discuss on the specific job which we posted and do the advice if you need any on your career path. More than that we re willing to hear & support your current technical issues  
+:fire: Discuss on the specific job which we posted and take the advice if you need any on your career path. More than that We're willing to hear & support your current technical issues.  
 
 ## Job Posting Rules  
 
